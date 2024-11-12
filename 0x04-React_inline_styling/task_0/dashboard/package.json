@@ -1,0 +1,24 @@
+{
+  "name": "react-inline-styling",
+  "version": "1.0.0",
+  "description": "React project with inline styling using Aphrodite",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "aphrodite": "^2.4.0"
+  },
+  "devDependencies": {
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-16": "^1.15.6",
+    "react-scripts": "4.0.3"
+  },
+  "author": "",
+  "license": "ISC"
+}
